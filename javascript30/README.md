@@ -11,4 +11,5 @@
 
 ## Things
 
-- drum Kit: https://pineoc.github.io/js-study/javascript30/drumKit/
+- drumKit: https://pineoc.github.io/js-study/javascript30/drumKit/
+- clock: https://pineoc.github.io/js-study/javascript30/clock/
