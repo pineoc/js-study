@@ -15,3 +15,4 @@
 - clock: https://pineoc.github.io/js-study/javascript30/clock/index.html
 - blur-color-slider: https://pineoc.github.io/js-study/javascript30/blur-color-slider/index.html
 - Cardio: https://pineoc.github.io/js-study/javascript30/cardio/index.html
+- Flex-panel-gallery: https://pineoc.github.io/js-study/javascript30/flex-panel-gallery/index.html
