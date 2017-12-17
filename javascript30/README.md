@@ -16,3 +16,7 @@
 - blur-color-slider: https://pineoc.github.io/js-study/javascript30/blur-color-slider/index.html
 - Cardio: https://pineoc.github.io/js-study/javascript30/cardio/index.html
 - Flex-panel-gallery: https://pineoc.github.io/js-study/javascript30/flex-panel-gallery/index.html
+- Ajax Type Ahead: https://pineoc.github.io/js-study/javascript30/type-ahead/index.html
+- Cardio2: https://pineoc.github.io/js-study/javascript30/cardio2/index.html
+- Fun with HTML5 Canvas: https://pineoc.github.io/js-study/javascript30/fun-canvas/index.html
+- 14 must know Dev Tools Tricks: https://pineoc.github.io/js-study/javascript30/dev-tools-tricks/index.html
