@@ -17,3 +17,8 @@ A simple, free 20 video course that will help you master CSS Flexbox!
 - INTRODUCTION TO FLEXBOX
 - WORKING WITH FLEXBOX FLEX-DIRECTION
 - WRAPPING ELEMENTS WITH FLEXBOX
+- ...
+
+## Ref
+
+- Flexbox Cheatsheet: http://yoksel.github.io/flex-cheatsheet/#display
