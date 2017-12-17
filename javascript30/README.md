@@ -20,3 +20,4 @@
 - Cardio2: https://pineoc.github.io/js-study/javascript30/cardio2/index.html
 - Fun with HTML5 Canvas: https://pineoc.github.io/js-study/javascript30/fun-canvas/index.html
 - 14 must know Dev Tools Tricks: https://pineoc.github.io/js-study/javascript30/dev-tools-tricks/index.html
+- Hold Shift to Check Multiple Checkboxes: https://pineoc.github.io/js-study/javascript30/checkboxes/index.html
