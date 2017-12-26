@@ -6,7 +6,23 @@
   <script type="text/javascript" src="http://www.cornify.com/js/cornify.js"></script>
 </head>
 <body>
+  <p>key detect <h2>pineoc</h2></p>
 <script>
+  const pressed = [];
+  const secretCode = 'pineoc';
+
+  window.addEventListener('keyup', (e) => {
+    console.log(`key: ${e.key}`);
+    pressed.push(e.key);
+    // slice array to secretCode.length
+    pressed.splice(-secretCode.length - 1, pressed.length - secretCode.length);
+    if(pressed.join('').includes(secretCode)) {
+      console.log('DING DING!');
+      cornify_add();
+    }
+    console.log(pressed);
+  });
+  
 </script>
 </body>
 </html>

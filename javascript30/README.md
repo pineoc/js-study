@@ -22,5 +22,5 @@
 - 14 must know Dev Tools Tricks: https://pineoc.github.io/js-study/javascript30/dev-tools-tricks/index.html
 - Hold Shift to Check Multiple Checkboxes: https://pineoc.github.io/js-study/javascript30/checkboxes/index.html
 - Custom HTML5 Video Player: https://pineoc.github.io/js-study/javascript30/video/index.html
-
+- Key sequence Detection: https://pineoc.github.io/js-study/javascript30/key-sequence/index.html
 
