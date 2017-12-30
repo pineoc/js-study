@@ -39,6 +39,9 @@
     <form class="add-items">
       <input type="text" name="item" placeholder="Item Name" required>
       <input type="submit" value="+ Add Item">
+      <br>
+      <input type="button" value="All Check" data-check-all="true">
+      <input type="button" value="All Uncheck" data-check-all="">
     </form>
   </div>
 
@@ -46,6 +49,7 @@
     const addItems = document.querySelector('.add-items');
     const itemsList = document.querySelector('.plates');
     const items = JSON.parse(localStorage.getItem('items')) || [];
+    const checkButtons = document.querySelectorAll('input[type=button]');
 
     function addItem(e) {
       e.preventDefault(); // prevent reload url
@@ -57,7 +61,7 @@
       
       items.push(item);
       populateList(items, itemsList); // add item to list
-      localStorage.setItem('items', JSON.stringify(items));
+      saveData();
       this.reset(); // reset on forms
     }
 
@@ -78,18 +82,30 @@
       const el = e.target;
       const index = el.dataset.index;
       items[index].done = !items[index].done;
-      localStorage.setItem('items', JSON.stringify(items));
+      saveData();
       populateList(items, itemsList);
+    }
+
+    function handleAllCheckBoxes() {
+      const isAllCheck = this.dataset.checkAll;
+      items.forEach(item => {
+        item.done = !!isAllCheck;
+      });
+      saveData();
+      populateList(items, itemsList);
+    }
+
+    function saveData() {
+      localStorage.setItem('items', JSON.stringify(items));
     }
 
     addItems.addEventListener('submit', addItem);
     itemsList.addEventListener('click', toggleDone);
+    checkButtons.forEach(btn => btn.addEventListener('click', handleAllCheckBoxes));
 
     // get list data from items (localStorage)
     populateList(items, itemsList);
 
-
-    // TODO: All Check && All unCheck Button
   </script>
 
 
