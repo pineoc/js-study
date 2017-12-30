@@ -36,3 +36,45 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
   flex-direction: column;
   min-height: 100vh;
 }
+
+/* ch 7 */
+/* learn flex-direction with align-items */
+.container {
+  display: flex;
+  justify-content: initial;
+  flex-direction: column;
+  height: 100vh;
+  align-items: center;
+}
+
+/* ch 8 */
+/* align-content */
+.container {
+  display: flex;
+  border: 10px solid mistyrose;
+  justify-content: initial;
+  flex-direction: row;
+  height: 100vh;
+  align-items: initial;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  align-content: center;
+}
+.box {
+  font-size: 100px;
+  width: 33.33%;
+}
+
+/* ch 9 */
+/* align-self */
+.container {
+  align-items: flex-start;
+  flex-wrap: initial;
+  justify-content: initial;
+  align-content: initial;
+}
+.box6 {
+  width: initial;
+  align-self: stretch;
+}
