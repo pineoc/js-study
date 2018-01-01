@@ -26,3 +26,4 @@
 - [Slide In on Scroll](https://pineoc.github.io/js-study/javascript30/slide-scroll/index.html)
 - [LocalStorage and Event Delegation](https://pineoc.github.io/js-study/javascript30/local-storage/index.html)
 - [CSS Text Shadow Mouse Move Effect](https://pineoc.github.io/js-study/javascript30/css-text/index.html)
+- [Adding Up Times with Reduce](https://pineoc.github.io/js-study/javascript30/adding-time-reduce/index.html)
