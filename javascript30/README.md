@@ -27,3 +27,6 @@
 - [LocalStorage and Event Delegation](https://pineoc.github.io/js-study/javascript30/local-storage/index.html)
 - [CSS Text Shadow Mouse Move Effect](https://pineoc.github.io/js-study/javascript30/css-text/index.html)
 - [Adding Up Times with Reduce](https://pineoc.github.io/js-study/javascript30/adding-time-reduce/index.html)
+- [WebCam Fun](https://pineoc.github.io/js-study/javascript30/webcam/index.html)
+- [Speech Recognition](https://pineoc.github.io/js-study/javascript30/speech/index.html)
+- [Geolocation](https://pineoc.github.io/js-study/javascript30/geolocation/index.html)
