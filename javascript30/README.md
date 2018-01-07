@@ -30,3 +30,4 @@
 - [WebCam Fun](https://pineoc.github.io/js-study/javascript30/webcam/index.html)
 - [Speech Recognition](https://pineoc.github.io/js-study/javascript30/speech/index.html)
 - [Geolocation](https://pineoc.github.io/js-study/javascript30/geolocation/index.html)
+- [Follow Along Links](https://pineoc.github.io/js-study/javascript30/follow-link/index.html)
