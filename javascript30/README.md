@@ -34,3 +34,4 @@
 - day 21, [Geolocation](https://pineoc.github.io/js-study/javascript30/geolocation/index.html)
 - day 22, [Follow Along Links](https://pineoc.github.io/js-study/javascript30/follow-link/index.html)
 - day 23, [Speech Synthesis](https://pineoc.github.io/js-study/javascript30/speech-synthesis/index.html)
+- day 24, [Sticky Nav](https://pineoc.github.io/js-study/javascript30/sticky-nav/index.html)
