@@ -37,3 +37,4 @@
 - day 24, [Sticky Nav](https://pineoc.github.io/js-study/javascript30/sticky-nav/index.html)
 - day 25, [Event Capture, Propagation, Bubbling and Once](https://pineoc.github.io/js-study/javascript30/event/index.html)
 - day 26, [Stripe Follow Along DropDown](https://pineoc.github.io/js-study/javascript30/stripe-follow/index.html)
+- day 27, [Click and Drag](https://pineoc.github.io/js-study/javascript30/click-drag/index.html)
