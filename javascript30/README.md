@@ -41,4 +41,3 @@
 - day 28, [Video Speed Controller UI](https://pineoc.github.io/js-study/javascript30/video-speed/index.html)
 - day 29, [Countdown Clock](https://pineoc.github.io/js-study/javascript30/countdown/index.html)
 - day 30, [Whack A Mole Game](https://pineoc.github.io/js-study/javascript30/whack-mole/index.html)
-- day 31, []()
